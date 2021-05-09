@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>KakaoTalk_20210509_001715375_03.jpg</filename>
+	<path>C:\Users\woony\Desktop\Final-master\Final-master\모델 학습\data\dataset\KakaoTalk_20210509_001715375_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>655</ymin>
+			<xmax>2725</xmax>
+			<ymax>3598</ymax>
+		</bndbox>
+	</object>
+</annotation>
