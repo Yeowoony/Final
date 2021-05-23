@@ -1,0 +1,7 @@
+/home/pi/cart/학습/res_image/SNACKS(5).jpg
+/home/pi/cart/학습/res_image/SNACKS(1).jpg
+/home/pi/cart/학습/res_image/SNACKS(2).jpg
+/home/pi/cart/학습/res_image/SNACKS(4).jpg
+/home/pi/cart/학습/res_image/SNACKS(3).jpg
+/home/pi/cart/학습/res_image/SNACKS(7).jpg
+/home/pi/cart/학습/res_image/SNACKS(6).jpg

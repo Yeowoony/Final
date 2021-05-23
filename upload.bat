@@ -1,3 +1,3 @@
 git add --all
-git commit -m "change modelling File in Linux but error -> calloc error - possibly out of CPU RAM "
+git commit -m "모델링 하는 소스작성"
 git push -u origin master
