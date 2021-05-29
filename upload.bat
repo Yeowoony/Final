@@ -1,3 +1,3 @@
 git add --all
-git commit -m "windwows개발환경의 한계로 인해 ubuntu로 개발환경"
+git commit -m "github 폴더안에 파일이 없어 오류 수정"
 git push -u origin master
