@@ -1,5 +1,0 @@
-classes = 2
-train = /home/pi/cart/학습/train.txt
-valid = /home/pi/cart/학습/test.txt
-names = /home/pi/cart/학습/classes.names
-backup = backup

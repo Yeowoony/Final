@@ -1,3 +1,3 @@
 git add --all
-git commit -m "github í´ë”ì•ˆì— íŒŒì¼ì´ ì—†ì–´ ì˜¤ë¥˜ ìˆ˜ì •"
-git push -u origin master
+git commit -m "github Æú´õ¾È¿¡ ÆÄÀÏÀÌ ¾ø¾î ¿À·ù ¼öÁ¤"
+git push -u origin +master
