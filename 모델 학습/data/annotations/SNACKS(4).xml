@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>SNACKS(4).jpg</filename>
+	<path>C:\data\dataset\SNACKS(4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>665</ymin>
+			<xmax>2726</xmax>
+			<ymax>3594</ymax>
+		</bndbox>
+	</object>
+</annotation>
