@@ -1,0 +1,8 @@
+x64/Release/data/img/SNACKS(1).jpg
+x64/Release/data/img/SNACKS(2).jpg
+x64/Release/data/img/SNACKS(3).jpg
+x64/Release/data/img/SNACKS(4).jpg
+x64/Release/data/img/SNACKS(5).jpg
+x64/Release/data/img/SNACKS(6).jpg
+x64/Release/data/img/SNACKS(7).jpg
+x64/Release/data/img/SNACKS(8).jpg
