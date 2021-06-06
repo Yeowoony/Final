@@ -1,0 +1,9 @@
+/home/ubuntu/바탕화면/darknet/CMakeFiles/install/strip.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/install/local.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/install.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/uselib.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/edit_cache.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/darknet.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/dark.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/list_install_components.dir

@@ -1,0 +1,2 @@
+/home/ubuntu/바탕화면/darknet/CMakeFiles/CheckCUDA/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/바탕화면/darknet/CMakeFiles/CheckCUDA/CMakeFiles/edit_cache.dir
