@@ -1,5 +1,0 @@
-horse
-person
-dog
-snack
-bird

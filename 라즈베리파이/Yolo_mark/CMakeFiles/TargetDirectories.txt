@@ -1,3 +1,0 @@
-/home/pi/Yolo_mark/CMakeFiles/rebuild_cache.dir
-/home/pi/Yolo_mark/CMakeFiles/yolo_mark.dir
-/home/pi/Yolo_mark/CMakeFiles/edit_cache.dir
